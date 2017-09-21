@@ -1,33 +1,35 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Junnan Tang(Captain) & Yuheng(Hugh) Song (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 ## *Version x.x*
 
-Release Date: Jul 26, 2027
+Release Date: Sept 21, 2017
 
 ## New Components
 
 -   controllers
 
-    -   serbian (AB)
-    
+    -   Add Gallary.php   (Hugh)
+    -   Add About.php      (Hugh)
+
+-   view
+    -   Add welcome.php (Hugh)
+    -   Add gallary.php (Hugh)
+    -   Add about.php   (Hugh)
+
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
+    -   Modify Welcome.php  (Hugh)
 
 -   models
 
-    -   italian (AB)
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
 
 

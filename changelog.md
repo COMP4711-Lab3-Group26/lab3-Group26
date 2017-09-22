@@ -25,11 +25,16 @@ Release Date: Sept 21, 2017
 -   controllers
 
     -   Modify Welcome.php  (Hugh)
+    -   Modify About.php, Gallery.php, Welcome.php  (Junnan)
+    -   Modify MY_Controller.php (Junnan)
 
 -   models
 
 
 -   views
+    -   Eliminate the common opening and closing HTML in about.php, 
+        gallery.php, welcome.php    (Junnan)
+    -   Extracting the common opening and closing HTML in template.php  (Junnan)
 
 
 
